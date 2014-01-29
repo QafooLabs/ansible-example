@@ -1,0 +1,5 @@
+[vagrant]
+33.33.33.42 ansible_ssh_host=33.33.33.42 ansible_ssh_private_key_file=~/.vagrant.d/insecure_private_key
+
+[backend]
+33.33.33.42 ansible_ssh_host=33.33.33.42 ansible_ssh_private_key_file=~/.vagrant.d/insecure_private_key
