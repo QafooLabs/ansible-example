@@ -7,3 +7,4 @@
       tags: ['apache', 'webserver']
       vhosts:
         - { hostname: 'ansible.local', dir: '/home/vagrant/ansible/htdocs' }
+    - role: database
