@@ -1,8 +1,8 @@
 [vagrant]
-33.33.33.42 ansible_ssh_host=33.33.33.42 ansible_ssh_private_key_file=~/.vagrant.d/insecure_private_key
+33.33.33.42 ansible_ssh_host=33.33.33.42
 
 [backend]
-33.33.33.42 ansible_ssh_host=33.33.33.42 ansible_ssh_private_key_file=~/.vagrant.d/insecure_private_key
+33.33.33.42 ansible_ssh_host=33.33.33.42
 
 [backend:vars]
 mysql_app_password=insecure_app_password
